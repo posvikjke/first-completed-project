@@ -10,15 +10,6 @@
 	box-sizing: border-box;
 }
 
-:focus,
-:active {
-	/*outline: none;*/
-}
-
-a:focus,
-a:active {
-	/* outline: none;*/
-}
 
 /* Links */
 
@@ -145,8 +136,6 @@ legend {
     scale: 1.10;
     transition: 0.7s;
 }
-.nav__menu {
-}
 .nav__list {
     display: flex;
     column-gap: 50px;
@@ -158,8 +147,7 @@ legend {
 .nav__button {
     display: none;
 }
-.nav__item {
-}
+
 .nav__link {
     position: relative;
 	color: #000000; 
@@ -212,8 +200,7 @@ legend {
     color: #000000;
     padding-top: 20px;
 }
-.header__img {
-}
+
 
 /*-------------------SERVICES-------------------*/
 
